@@ -1,0 +1,58 @@
+//정수 N의 M번째 약수를 구하는 프로그램
+public class Main {
+
+	public static int function(int number,int k) {
+		for(int i=1;i<=number;i++) {
+			if(number % i ==0) {
+				k--;
+				if(k==0) {
+					return i;
+				}
+			}
+		}
+		return -1;
+	}
+	
+	public static void main(String[] args) {
+		int result = function(3050,10);
+		if(result == -1) {
+			System.out.println("3050의 10번째 약수는 없습니다");
+		}else {
+			System.out.println(result);
+		}
+
+	}
+
+}
+--------------------------------------------------------------------------------------------
+// charAt을 이용해서 함수변수에 입력되는 문자열에서 지정하는 순번의 문자열을 뽑아온다. 
+public class Main{
+	
+	public static char function(String input) {
+		return input.charAt(input.length() - 1);//input의 길이에서 -1 즉, 마지막번째 인덱스의 문자를 뽑아온다.
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("Hello world의 마지막단어는"+function("Hello world"));
+	}
+}
+-----------------------------------------------------------------------------------------------
+// 입력받은 수들중에 가장 큰수 찾기
+public class Main{
+	
+	public static int max(int a,int b) {
+		return (a>b)?a:b;//삼중연산자 : 괄호안의 조건이 True 면 a, False 면 b
+	}
+	
+	public static int function(int a,int b,int c) {//위에 정의 한 max 함수를 function함수에서 사용한다.
+		int result = max(a,b);
+		result = max(result,c);
+		return result;
+		
+	}
+	public static void main(String[] args) {
+		
+		System.out.println("(345,567,789)중 가장 큰값은"+function(345,567,789));
+		
+	}
+}
