@@ -9,6 +9,6 @@ whiteship/live-study
 # 5주차 과제 #클래스
 https://resilient-923.tistory.com/65?category=828745
 
-# 6주차 과제 #
+# 6주차 과제 #상속
 https://resilient-923.tistory.com/68
 
