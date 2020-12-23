@@ -9,3 +9,5 @@ whiteship/live-study
 # 5주차 과제
 https://resilient-923.tistory.com/65
 
+# 6주차 과제
+
