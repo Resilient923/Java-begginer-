@@ -18,3 +18,6 @@ https://resilient-923.tistory.com/65?category=828745
 # 6주차 과제 #상속
 https://resilient-923.tistory.com/68
 
+# 7주차 과제 #패키지
+https://resilient-923.tistory.com/103
+
