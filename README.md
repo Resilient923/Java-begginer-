@@ -21,3 +21,5 @@ https://resilient-923.tistory.com/68
 # 7주차 과제 #패키지
 https://resilient-923.tistory.com/103
 
+# 8주차 과제 #인터페이스
+https://resilient-923.tistory.com/108
