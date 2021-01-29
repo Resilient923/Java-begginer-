@@ -26,3 +26,6 @@ https://resilient-923.tistory.com/108
 
 # 9주차 과제 #예외처리
 https://resilient-923.tistory.com/117
+
+# 11주차 과제 #enum
+https://resilient-923.tistory.com/122
