@@ -29,3 +29,6 @@ https://resilient-923.tistory.com/117
 
 # 11주차 과제 #enum
 https://resilient-923.tistory.com/122
+
+# 12주차 과제 #애노테이션
+https://resilient-923.tistory.com/128
