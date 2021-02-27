@@ -35,3 +35,6 @@ https://resilient-923.tistory.com/128
 
 # 13주차 과제 #I/O
 https://resilient-923.tistory.com/129
+
+# 14주차 과제 #제네릭 
+https://resilient-923.tistory.com/130
