@@ -4,6 +4,8 @@ https://github.com/whiteship/live-study
 
 whiteship/live-study
 
+## 백기선님이 진행하신 라이브스터디 자료입니다 
+
 
 
 # 1주차 과제 # JVM은 무엇이며 자바 코드는 어떻게 실행하는 것인가.
